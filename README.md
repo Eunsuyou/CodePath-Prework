@@ -1,8 +1,8 @@
-# Prework - *Name of App Here*
+# Prework - *IOS App*
 
 Submitted by: **Eunsu You**
 
-**Name of your app** is an app that... [TODO] 
+**IOS App** is an app that... [shows personal information, and allows pressing a button to change the background into a random color] 
 
 Time spent: **3** hours spent in total
 
@@ -19,7 +19,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-/private/var/folders/cs/js8_tbls48ng040xhj6y0_wm0000gn/T/5c90b07987c5a24579b8e183f10db6b7/Kapture.gif
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/7kl5RIl" data-context="false" ><a href="//imgur.com/a/7kl5RIl"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
 
@@ -43,7 +44,7 @@ Once I began navigating the XCode IDE for the first time, it took some time for 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Eunsu You - via CodePath]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
