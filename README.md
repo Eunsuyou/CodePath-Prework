@@ -21,6 +21,8 @@ Here's a walkthrough of implemented user stories:
 
 <!-- https://i.imgur.com/4RP3YFm.gif -->
 
+![](https://i.imgur.com/4RP3YFm.gif)
+
 GIF created with [Kap](https://getkap.co/) for macOS
 
 
