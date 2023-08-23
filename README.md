@@ -19,18 +19,27 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+/private/var/folders/cs/js8_tbls48ng040xhj6y0_wm0000gn/T/5c90b07987c5a24579b8e183f10db6b7/Kapture.gif
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap  
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+Instagram - Add to story, send posts/memes to friends through messages, and unsend messages
+
+Tiktok - Send comments to friends, Bookmark videos, "not interested" feature
+
+Discord - Like or thumbsup comments, join voice channel, and create text channels
+
+Spotify - Play podcasts/music, save favorite songs, and create playlists
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Once I began navigating the XCode IDE for the first time, it took some time for me to find certain files and options, however the instructions were very helpful. 
 
 ## License
 
