@@ -2,7 +2,7 @@
 
 Submitted by: **Eunsu You**
 
-**IOS App** is an app that... [shows personal information, and allows pressing a button to change the background into a random color] 
+**IOS App** is an app that... shows personal information, and allows pressing a button to change the background into a random color
 
 Time spent: **3** hours spent in total
 
@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/7kl5RIl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/4RP3YFm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- https://i.imgur.com/JL1snRo.gif -->
 
